@@ -1,0 +1,60 @@
+
+
+html body {
+
+background: beige;
+}
+
+
+.mainContent{
+  text-align: center;
+  
+}
+
+
+button {
+  background-color: cornflowerblue;
+}
+.mainHeader{
+  font-family:'Courier New', Courier;
+  font-size: 50px;
+
+}
+
+
+.header2 {
+  font-family: monospace;
+  font-size: 20px;
+  margin-top: 150px;
+}
+
+.header3 {
+  font-family:Georgia;
+  font-size: 15px;
+  margin-top: 100px
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  
+}
+
+p {
+  font-family:Georgia;
+  color:darkturquoise;
+  font-style: italic;
+  
+}
+
+.anotherHeader{
+  font-family:monospace;
+  font-size: 20px;
+  
+}
+
+
+
+
+
